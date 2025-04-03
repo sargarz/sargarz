@@ -1,6 +1,6 @@
 ## |˶˙ᵕ˙ )ﾉﾞ Hello, I am Sara
 
-- ❤︎  Excited about AI and cybersecurity
+- ❤︎  Interested in AI and cybersecurity
 - ✩   Currently working with Python, C++, and my lil Raspberry Pi
 - ☺ 	Experienced in full-stack web development
 - ☕︎ 	Currently working on → nothing serious yet (•᷄ࡇ•᷅ )
