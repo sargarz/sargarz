@@ -1,4 +1,4 @@
-## Heyhey, I'm Sara (˶˙ᵕ˙ )ﾉﾞ
+![Banner](meowbanner.gif)
 
 ✦   Interested in AI and cybersecurity
 
